@@ -1,16 +1,22 @@
-## Hi there 👋
+# Diêgo Mello
 
-<!--
-**maestrodiegomello-glitch/maestrodiegomello-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Diretor de Relações Institucionais · Grupo PluralMED Sobral**
 
-Here are some ideas to get you started:
+Atuo na interface entre cliente e contratada na gestão de serviços de saúde. Meu trabalho é transformar conflitos em acordos, com objetividade, diplomacia e foco em resultado desde o primeiro contato.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Áreas de atuação
+
+- **Relações Institucionais:** articulação com gestores públicos, contratantes e parceiros estratégicos
+- **Mediação e resolução de conflitos:** negociação entre cliente e contratada, com soluções efetivas e sustentáveis
+- **Gestão de contratos em saúde:** acompanhamento da execução, conformidade e desempenho contratual
+- **Jornada do Cliente:** do primeiro contato institucional ao pós-venda
+
+### Como trabalho
+
+> Ir direto ao ponto, ouvir todas as partes e construir a solução que se sustenta.
+
+### O que você encontra aqui
+
+Projetos, materiais e ferramentas que desenvolvo para tornar a gestão institucional mais clara, mensurável e eficiente.
